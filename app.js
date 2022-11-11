@@ -30,7 +30,7 @@
 
 
 
-//Варіант 2 на промісах
+// Варіант 2 на промісах (async await)
 
 const fs = require('fs/promises');
 const path = require('path');
